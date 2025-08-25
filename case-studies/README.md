@@ -1,14 +1,10 @@
 # Case Studies
 
-Real transformation stories in development.
+Curated transformation case studies that illustrate practical, measurable outcomes.
 
-## Coming September 2025
+## In Development (September 2025)
+- **Integrated Transformation** — Coordinated M&A integration, digital enablement, and operating model redesign.
+- **Quick Wins Backfire** — When momentum tactics create downstream risk and how to course-correct.
+- **Digital Adoption Reality** — Why technology launches fail without operational readiness and governance.
 
-- **Integrated Transformation** - M&A + Digital + Operating Model
-- **Quick Wins Backfire** - When momentum strategies fail
-- **Digital Adoption Reality** - Why tech ≠ transformation
-
-Check back soon for detailed cases with metrics and lessons.
-
----
-*Version 0.1*
+Each case will include context, approach, KPIs, risks, and lessons learned.

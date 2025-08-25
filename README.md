@@ -22,14 +22,14 @@ This playbook changes that.
 
 ## What's Inside
 
-### 📚 [Frameworks](./frameworks/)
+### 📚 [Frameworks](./frameworks/change-readiness-assessment.md)
 *Strategic methodologies for transformation success*  
 
 - **Stakeholder Resistance Patterns** – 5 patterns that predict failure  
 - **Change Readiness Assessment** – Quantify capacity before committing  
 - **Transformation Health Indicators** – Early warning system for risks  
 
-[Explore Frameworks →](./frameworks/)
+[Explore Frameworks →](./frameworks/change-readiness-assessment.md)
 
 ---
 
@@ -44,21 +44,21 @@ This playbook changes that.
 
 ---
 
-### 📖 [Case Studies](./case-studies/)
+### 📖 [Case Studies](./case-studies/integrated-transformation.md)
 *Real transformations – anonymized but authentic*  
 
 - **Integrated Transformation** – M&A + digital + operating model  
 - **Quick Wins Catalog** – What actually builds momentum  
 - **Failure Patterns** – Why transformations really fail  
 
-[Read Cases →](./case-studies/)
+[Read Cases →](./case-studies/integrated-transformation.md)
 
 ---
 
 ## Quick Start
 
 **For Transformation Leaders**
-1. Start with [Change Readiness Assessment](./frameworks/)  
+1. Start with [Change Readiness Assessment](./frameworks/change-readiness-assessment.md)  
 2. Map resistance using [Stakeholder Patterns](./frameworks/stakeholder-resistance-patterns.md)  
 3. Track adoption using [Tools](./tools/)  
 
@@ -68,7 +68,7 @@ This playbook changes that.
 - Attribution appreciated but not required  
 
 **For Skeptics**
-- Start with the [Integrated Transformation Case](./case-studies/)  
+- Start with the [Integrated Transformation Case](./case-studies/integrated-transformation.md)  
 - Compare what failed vs. what worked  
 - See how results differ from traditional consulting  
 
