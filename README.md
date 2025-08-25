@@ -58,7 +58,7 @@ This playbook changes that.
 ## Quick Start
 
 **For Transformation Leaders**
-1. Start with [Change Readiness Assessment](./frameworks/change-readiness-assessment.md)  
+1. Start with [Change Readiness Assessment](./frameworks/)  
 2. Map resistance using [Stakeholder Patterns](./frameworks/stakeholder-resistance-patterns.md)  
 3. Track adoption using [Tools](./tools/)  
 
@@ -68,7 +68,7 @@ This playbook changes that.
 - Attribution appreciated but not required  
 
 **For Skeptics**
-- Start with the [Integrated Transformation Case](./case-studies/integrated-transformation.md)  
+- Start with the [Integrated Transformation Case](./case-studies/)  
 - Compare what failed vs. what worked  
 - See how results differ from traditional consulting  
 
