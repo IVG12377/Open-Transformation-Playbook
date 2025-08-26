@@ -167,3 +167,16 @@ This transformation succeeded not despite its complexity, but because we treated
 
 ---
 *Version 1.0 | August 2025 | Based on actual transformation*
+
+## Evidence of Impact
+
+![Transformation Metrics Over Time](./evidence/transformation-metrics-chart.png)
+*Chart shows the direct correlation between interventions and improvement in key metrics.*
+
+Additional supporting data:
+- [KPI Scorecard Detail](./evidence/kpi-scorecard.xlsx)
+- [Weekly Pulse Check Data](./evidence/pulse-check-data.xlsx)
+- [Full Timeline Analysis](./evidence/intervention-timeline.xlsx)
+- ![Before vs After](./evidence/before-after-comparison.png)
+
+*Overall synergy achievement = Total realized ($59M) ÷ Total target ($70M) = 84.3%, rounded to 85%*
